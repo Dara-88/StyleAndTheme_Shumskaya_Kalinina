@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Event Handling: Tips</string>
+    <string name="buttonText">Оформить закза</string>
+    <string name="Title">Белый слон</string>
+    <string name="address">Пермь, Пермский край, ул. 25 Октября, 40А</string>
+    <string name="data">Укажите персональные данные:</string>
+    <string name="FIO">Фамилия, Имя, Отчество:</string>
+    <string name="hintFIO">Surname, name and patronymic</string>
+    <string name="phone">Телефон:</string>
+    <string name="hintPhone">phone number</string>
+    <string name="clientAddress">Адрес доставки:</string>
+    <string name="hintClientAddress">address</string>
+</resources>
